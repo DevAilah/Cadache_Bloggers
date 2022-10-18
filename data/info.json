@@ -1,0 +1,67 @@
+{
+  "info": [
+    {
+      "firstName": "Patrick",
+      "lastName": "Aila",
+      "email": "patrickaila@yahoo.com",
+      "age": "20",
+      "password": "8869",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "firstName": "Henry",
+      "lastName": "Taco",
+      "email": "henrytaco@yahoo.com",
+      "age": "20",
+      "password": "8869",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "firstName": "Ariana",
+      "lastName": "Brandy",
+      "email": "arianabrandy@yahoo.com",
+      "age": "20",
+      "password": "8869",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "firstName": "James",
+      "lastName": "Akeyo",
+      "email": "jamesakeyo@yahoo.com",
+      "age": "20",
+      "password": "8869",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "firstName": "John",
+      "lastName": "Otieno",
+      "email": "johnotieno@yahoo.com",
+      "age": "20",
+      "password": "8869",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "firstName": "Christine",
+      "lastName": "Bella",
+      "email": "christinebella@yahoo.com",
+      "age": "20",
+      "password": "8869",
+      "gender": "female",
+      "id": 6
+    },
+    {
+      "firstName": "Lucky",
+      "lastName": "Pish",
+      "email": "luckypish@gmail.com",
+      "age": "45",
+      "password": "546464785856",
+      "gender": "other",
+      "id": 7
+    }
+  ]
+}

@@ -6,17 +6,18 @@ const Navbar = () => {
         <nav className="navbar">
            <h1>The Cadache Blog</h1>
            <div className="links">
-               <Link to="/" style={{  
+               <Link to="/home" style={{  
+                   clr: "#1e9bff",
                    color: "white",
                    backgroundColor: '#f1356d',
                    borderRadius: '3px'
-               }}>Home</Link>
+               }}><span>Home</span><i></i></Link>
 
-               <Link to="/create" style={ { 
+               <Link to="/Create" style={ { 
                        color: "white",
                        backgroundColor: '#f1356d',
                        borderRadius: '3px'
-               } }>New Blog</Link>
+               } }><span>New Blog</span><i></i></Link>
            </div>
         </nav>
     );
